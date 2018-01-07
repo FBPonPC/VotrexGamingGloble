@@ -1,0 +1,2 @@
+# VotrexGamingGloble
+bot custom
